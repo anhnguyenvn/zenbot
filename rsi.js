@@ -8,7 +8,7 @@ c.days = 40
 c.period = '15m'
 c.currency_capital = 1000
 //c.asset_capital = 2922
-c.oversold_rsi = 25 // mua
+c.oversold_rsi = 27 // mua
 c.overbought_rsi = 61 // bán
 //c.rsi_recover
 
