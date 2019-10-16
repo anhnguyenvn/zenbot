@@ -5,7 +5,7 @@ var c = module.exports = {}
 c.selector = 'binance.FET-USDT'
 c.strategy = 'rsi'
 c.days = 40
-c.period = '1h'
+c.period = '5m'
 c.currency_capital = 1000
 //c.asset_capital = 2922
 c.oversold_rsi = 20 // mua
